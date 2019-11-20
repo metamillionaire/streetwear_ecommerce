@@ -1,4 +1,0 @@
-LOGIN CREDENTIALS FOR ADMIN OF products
-username: yourname
-email_address: yourname@example.com
-password: product
